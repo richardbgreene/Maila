@@ -1,4 +1,13 @@
-[![Build Status](https://travis-ci.org/ValerioMa/Mailena.svg?branch=master)](https://travis-ci.org/ValerioMa/Mailena)
+[![Build Status](https://travis-ci.org/ValerioMa/Maila.svg?branch=master)](https://travis-ci.org/ValerioMa/Maila)
 
-# Mailena
+# Maila the snail (Mailamaca)
 An open autonomous driving platform 
+
+                    o       o
+                     \_____/ 
+                     /=O=O=\     _______ 
+                    /   ^   \   /\\\\\\\\
+                    \ \___/ /  /\   ___  \
+                     \_ V _/  /\   /\\\\  \
+                       \  \__/\   /\ @_/  /
+                        \____\____\______/
