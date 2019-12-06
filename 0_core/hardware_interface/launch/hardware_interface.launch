@@ -1,0 +1,6 @@
+<launch>
+    <arg name="config_file" default="$(find hardware_interface)/config/params.yaml"/>
+    <node name="hardware_interface_node" pkg="hardware_interface" type="hardware_interface_node" output="screen">
+    	<rosparam command="load" file="$(arg config_file)" /> <!--Load parameters from config files-->
+    </node>
+</launch>
